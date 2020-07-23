@@ -1,6 +1,6 @@
 # Binomial Calculator
 
-This is a binomial calcualtor that uses a naïve algorithm independently and recursively.
+This is a binomial calcualtor that uses a naïve algorithm O(2^n) independently and recursively.
 
 ```bash
 Started naïve calculation for n = 3, k = 2... Binomial coefficient: 3
